@@ -95,7 +95,7 @@ The dashboard will open in your browser at `http://localhost:8501`
 - Cluster comparison charts
 - Actionable recommendations
 
-## 📊 Technologies Used
+##  Technologies Used
 
 - **Data Analysis**: Pandas, NumPy
 - **Machine Learning**: Scikit-learn (K-Means Clustering)
